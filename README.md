@@ -11,12 +11,13 @@ $ python3 domain.uptime.py
 ## Installation
 
 1 - $ git clone https://github.com/humberthomattar/domain.health.check.git
+
 2 - Alter cvs file with your domains
 
 ## Requirements
 
  - Python 3 >=
- - Others see requirements.txt
+ - See others in requirements.txt
 
 ## Authors
 
