@@ -1,5 +1,7 @@
 # Domain.Health.Check
 
+#### Status: [![Build Status](https://travis-ci.org/humberthomattar/domain.uptime.svg?branch=master)](https://travis-ci.org/humberthomattar/domain.uptime)
+
 Simple way to evaluates if yours domains are up. Line command and batch process.
 
 ![screen](docs/screen.png)
