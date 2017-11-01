@@ -1,6 +1,5 @@
 # encoding: utf-8
 from __future__ import print_function
-from socket import timeout
 import os
 from urllib.request import urlopen
 import sys
@@ -13,7 +12,6 @@ path_file = 'domains.csv'
 delimiter = ','
 # output line size
 width = 59
-
 # TO DO: remove OS dependencies
 os.system('clear')
 
